@@ -1,1 +1,1 @@
-# AI_Workshop_Ar
+# AI Workshop [Arabic]
