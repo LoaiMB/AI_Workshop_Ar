@@ -1,7 +1,7 @@
 # AI Workshop [Arabic]
 
 ## Project Presentation
-[View the presentation on Google Slides]([https://docs.google.com/presentation/d/your-slide-id/view](https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing))
+[View the presentation on Google Slides]((https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing))
 
 
 ## KNN model
