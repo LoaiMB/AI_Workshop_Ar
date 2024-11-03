@@ -1,6 +1,6 @@
 # AI Workshop [Arabic]
 
-## Project Presentation
+## Slides
 [![Project Presentation](https://github.com/LoaiMB/AI_Workshop_Ar/blob/main/image.png)](https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing)
 
 ## KNN model
