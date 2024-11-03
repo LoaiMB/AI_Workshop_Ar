@@ -1,10 +1,8 @@
 # AI Workshop [Arabic]
 
 ## Slides
-[![Project Presentation](https://github.com/LoaiMB/AI_Workshop_Ar/blob/main/image.png)](https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing)
-
 <a href="https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing" target="_blank">
-    <img src="https://github.com/LoaiMB/AI_Workshop_Ar/blob/main/image.png" alt="Google Slides" width="40" height="40">
+    <img src="https://github.com/LoaiMB/AI_Workshop_Ar/blob/main/image.png" alt="Google Slides">
 </a>
 
 
