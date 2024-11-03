@@ -1,7 +1,7 @@
 # AI Workshop [Arabic]
 
 ## Project Presentation
-[![Project Presentation](image.png)](https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing)
+[![Project Presentation](https://github.com/LoaiMB/AI_Workshop_Ar/blob/main/image.png)](https://docs.google.com/presentation/d/1Qgi2zFwQd1faOpa9ZzL32Too8ytjRww3xO4zXC2bc8g/edit?usp=sharing)
 
 ## KNN model
 [![KNN model](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kEvQkb8gv3fckpi7uaPvr14LKoC5Bbty?usp=sharing)
